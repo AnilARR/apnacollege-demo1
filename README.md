@@ -1,3 +1,3 @@
 # apnacollege-demo1
-This is my first git Repository
-author by Anil Rathod
+This is my first git Repository. 
+Author by Anil Rathod
